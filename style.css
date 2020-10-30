@@ -1,0 +1,130 @@
+.contactme-body {
+  text-align: center;
+}
+
+.carousel-item {
+  text-align: center;
+}
+
+.testimonial-text {
+  color: #fff;
+  font-family: "Raleway";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+
+.contactme-body {
+font-family: "Raleway";
+background-color: #f9ed69;
+}
+
+.navbar {
+  background-color:#f08a5d;
+}
+
+.navbar-brand {
+  font-family: "Dancing Script";
+}
+
+
+.big-heading {
+  color: #b83b5e;
+  font-family: "Dancing Script";
+  font-size: 6rem;
+  font-weight: bolder;
+  line-height: 1.5;
+}
+
+.contactme-heading {
+  padding-top: 8%;
+}
+
+
+#testimonials {
+  background-color: #f08a5d;
+  text-align: center;
+
+}
+
+#features {
+  padding: 7% 15%;
+  font-family: "Raleway";
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  background-color: #fff;
+  padding: 7% 15%;
+  text-align: center;
+  color: #b83b5e;
+  font-family: "Raleway";
+  font-weight: bold;
+}
+
+.row {
+  padding-top: 7%;
+}
+
+.top-container {
+  padding: 7% 15% 7%;
+  background-color: #f9ed69;
+  text-align: center;
+}
+
+.middle-container {
+  padding: 10% 10% 10% 10%;
+  background-color: #fff;
+}
+
+.bottom-container {
+  padding: 7% 15%;
+  background-color: #f08a5d;
+  font-family: "Raleway";
+  color: #fff;
+  text-align: center;
+}
+
+.footer {
+  padding: 4% 15%;
+  background-color: #fff;
+  text-align: center;
+}
+
+.contactme-container {
+  padding: 7% 15%;
+}
+
+
+.top-paragraph {
+  font-family: "Raleway";
+  font-size: 2rem;
+  color: #f08a5d;
+  font-weight: bold;
+}
+
+.dancercize {
+  font-family: "Dancing Script";
+  font-size: 2.5rem;
+  line-height: 1.5;
+}
+
+
+.middle-image {
+  border-radius: 100%;
+  width: 200px;
+}
+
+
+.social-icon {
+  margin: 20px 10px;
+}
